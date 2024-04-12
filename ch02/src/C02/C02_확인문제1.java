@@ -1,4 +1,4 @@
-package sec03.exam01;
+package C02;
 
 public class C02_확인문제1 {
 	public static void main(String[] args) {
